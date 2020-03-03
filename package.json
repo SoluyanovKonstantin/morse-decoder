@@ -15,7 +15,7 @@
     "url": "git+https://github.com/romacher/morse-decoder.git"
   },
   "author": "Roman Chernyavski",
-  "license": "ISC",
+  "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/romacher/morse-decoder/issues"
   },
